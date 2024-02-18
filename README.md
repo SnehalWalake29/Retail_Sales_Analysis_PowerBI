@@ -1,4 +1,7 @@
 # Retail_Sales_Analysis_PowerBI
+![Madhav Store dashboard](https://github.com/SnehalWalake29/Retail_Sales_Analysis_PowerBI/assets/154491359/d4d90e5e-154d-4b31-811b-dd939b553427)
+
+## Problem Statement :
 This Project is to track and analyze online retail sales data and complete project using Power BI tool 
 
 ## Objective of Project :
